@@ -1,0 +1,32 @@
+Tools
+1- Multi Language
+Arabic
+English
+2- Users Management (Add User - User List)
+Add User (name- usernam-password-confirm password - team Optional - role)
+User List (Id user - name user - User name - Role - Staet At - Status,edit )
+(Download List user CSV - Excel - PDF - Print )
+3- Team Management (Add Team wih - Team - Team Leads: show all team mempers leads )
+Add Team (Name Team - Leader team )
+Team (Id Team - Name Team - Team Leader Created By - Created At- Action )
+Team Leads (Show Leads for team )
+4- Lead Management (Add Lead - Add Bulk Lead - All Lead Management - Assign Leads - Auto Assign Leads - Searh Leads - Locked Leads - Move Leads - Lead Status )
+Add Lead (Name - Phone- Address N - Facebook Username or Id  N - Imo N - Project - Status - User N,feedback )
+Add Bulk Lead ( Download example and upload file: Excel)
+All Lead Management ( Select Leads - Name - Phone - States - comment - user - Project - Creates By - Created at - Action )
+Assign Leads (Select User - Select Project - Select Status - Number of Leads to Assign )
+Auto Assign Leads (Select User - Select Project - Select Status - Number of Leads to Assign- Assign Hour )
+Searh Leads admin ? mod
+Locked Leads (Locked Leads for user) admin 
+Move Leads (Select Old User - Select Projects -
+Select Old Status - Select New User - Select New Status - Number of Leads to Move )
+Lead Status (Id - name:fllow up /fresh lead/ intersted/no answer/junk/send msg-whats/back msg whats- created at - Action)
+5- WhatsApp Boot (Send - RECEIVED)
+Send (Send Template Messages )
+Recelved ( Recelved Messages )
+6- Projects Management (Add Project - project) selected forom created 
+Add Project (Project name )
+project (Project list) id name createAt
+7-Project Details (Add Project - project) 
+8- Permissions (Add Role - Roles )
+9-Company (info) name/phone/social links
